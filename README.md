@@ -50,7 +50,6 @@ Client 2:
 ```bash  
 LOGIN shristi
 OK
-INFO ashutosh connected
 MSG hey ashutosh!
 ```  
 
@@ -66,12 +65,8 @@ MSG hey ashutosh!
 | `ERR` | Returned on invalid input |
 | `INFO <username> disconnected` | Shown when someone leaves the chat |
 
----  
+--- 
 
-## 🧰 Troubleshooting  
-- If Address already in use, change port:  
-```bash
-python3 chat_server.py --port 5000  
-```
-- To stop: Ctrl + C  
-  
+## 🧰 Troubleshooting
+Watch the working demo here: [Demo](https://www.loom.com/share/4e5f452cebf84f07b485b3a88ac0f7b9)
+
