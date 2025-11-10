@@ -67,6 +67,6 @@ MSG hey ashutosh!
 
 --- 
 
-## 🧰 Troubleshooting
+## 🧰 Demo Video
 Watch the working demo here: [Demo](https://www.loom.com/share/4e5f452cebf84f07b485b3a88ac0f7b9)
 
