@@ -1,8 +1,12 @@
 import os
+from dotenv import load_dotenv
 import socket
 import threading
 import argparse
 import time
+
+
+load_dotenv()
 
 
 HOST = os.getenv("HOST", "0.0.0.0")
